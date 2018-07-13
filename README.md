@@ -1,6 +1,6 @@
 # evaluationMetriquesAccordInterAnnotateur
 
-Contient un programme qui évalue des métriques d'estimation de l'accord inter-annotateur (evaluationAccordInterAnnotateur.exe et evaluationAccordInterAnnotateur), ainsi qu'un programme de génération aléatoire de données (generationAleatoire.exe et generationaleatoire).
+Contient un programme qui évalue des métriques d'estimation de l'accord inter-annotateur (evaluationAccordInterAnnotateur.exe et evaluationAccordInterAnnotateur), ainsi qu'un programme de génération aléatoire de données (generationAleatoire.exe et generationAleatoire).
 
 Pour des informations sur le fonctionnement de ces programmes, lire la documentation utilisateur (docUtilisateur.odt).
 
